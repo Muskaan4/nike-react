@@ -1,0 +1,20 @@
+.bg-banner-clr{
+    background-color: #FFF9F4;
+}
+.orng-clr{
+    color: #FA804C;
+
+}
+.heading-clr{
+    color: #363958;
+}
+.buy-btn{
+    background-color: #3D4FF3;
+    color: white;
+    width: 170px;
+    height: 60px;
+}
+.bg-clr{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
